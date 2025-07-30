@@ -38,10 +38,10 @@ To analyze pizza sales data and identify trends, top-performing products, and ar
 ## 📸 Screenshots
 
 ### 🔹 Home Page – KPIs and Trends
-![Dashboard Screenshot 1](dashboard_home.png)
+![Dashboard Screenshot 1](./dashboard_home.png)
 
 ### 🔹 Best/Worst Sellers Page
-![Dashboard Screenshot 2](
+![Dashboard Screenshot 2](./dashboard_best_sellers.png)
 
 
 
